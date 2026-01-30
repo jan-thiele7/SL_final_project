@@ -1,11 +1,15 @@
 ---
 title: "Statistical Learning Final Project"
+author: "Katrin Sauter & Jan Thiele"
+date: 2026-01-26
 format:
   html:
     embed-resources: true
+number-sections: true
+toc: true         
 editor: visual
-author: "Katrin Sauter & Jan Thiele"
-date: 2026-01-26
+execute:
+  cache:  true
 ---
 
 # Load Packages and Dataset
